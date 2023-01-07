@@ -1,4 +1,4 @@
-# 138
+# 138 .
 
 f = open('stockcode.txt', 'r') # 'r' 읽기 모드로 열기
 line_num = 1 # 줄 번호
